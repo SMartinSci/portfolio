@@ -291,11 +291,6 @@ a:focus, a:hover {
   background-color: #161616 !important;
 }
 
-ul {
-    list-style-type: disc !important;
-    padding-left: 1em;
-}
-
 .bg-primary {
   background-color: #64a19d !important;
 }
